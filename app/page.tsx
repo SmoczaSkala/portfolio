@@ -21,8 +21,8 @@ export default function Home() {
       <Stats />
       <Roadmap />
       <Skills />
-      <Projects />
-      <PhotoGallery />
+      {/* <Projects /> */}
+      {/* <PhotoGallery /> */}
       {/* <Certificates /> */}
       <Contact />
       <ScrollToTop />

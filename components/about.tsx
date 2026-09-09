@@ -74,14 +74,14 @@ export default function About() {
               Always chasing the next challenge.
             </motion.p>
 
-            <motion.div variants={itemVariants}>
+            {/* <motion.div variants={itemVariants}>
               <Button asChild>
                 <Link href="#projects" className="flex items-center gap-2">
                   See my projects
                   <ArrowRight className="h-4 w-4" />
                 </Link>
               </Button>
-            </motion.div>
+            </motion.div> */}
 
           </div>
         </motion.div>

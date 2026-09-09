@@ -177,6 +177,12 @@ export default function Stats() {
               🏆 2nd Place Winner - Hackathon Techni Schools Code Camp 2024
             </span>
           </div>
+                    <div className="inline-flex items-center gap-2 px-4 sm:px-6 py-2 sm:py-3 rounded-full bg-background border border-border shadow-md">
+            <Award className="h-4 w-4 sm:h-5 sm:w-5 text-primary flex-shrink-0" />
+            <span className="text-xs sm:text-sm font-medium text-center">
+              🚀 Participant - Hackathon organized by Civil42
+            </span>
+          </div>
         </motion.div>
       </div>
     </section>

@@ -59,7 +59,21 @@ const roadmapData: TimelineItem[] = [
     type: "education",
   },
   {
-    date: "2025 March - Present",
+    date: "2024 - 2026 June",
+    title: "Student Projects",
+    subtitle: "Niepubliczne Technikum Programistyczne Techni Schools",
+    description:
+      "Worked as a student on practical projects at Techni Schools, applying and expanding the skills learned in class.",
+    details: [
+      "Collaborated on team-based programming projects",
+      "Applied theoretical knowledge to real, hands-on work",
+      "Continued developing skills across the full stack",
+      "Built a portfolio of practical project experience"
+    ],
+    type: "education",
+  },
+  {
+    date: "2025 March - 2025 december",
     title: "Full Stack Developer",
     subtitle: "RedSteel Company",
     description:
@@ -70,6 +84,20 @@ const roadmapData: TimelineItem[] = [
       "Building RESTful APIs with Node.js and Express",
       "Collaborating with cross-functional teams",
       "Ensuring code quality and best practices"
+    ],
+    type: "work",
+  },
+  {
+    date: "2026 July - 2026 September",
+    title: "Software Engineering Intern",
+    subtitle: "LSP Group",
+    description:
+      "Completed a full stack software engineering internship at LSP Group.",
+    details: [
+      "Worked as part of a full stack development team",
+      "Contributed to real production features and codebases",
+      "Gained professional experience in a company environment",
+      "Applied best practices in a fullstack development workflow"
     ],
     type: "work",
   },
